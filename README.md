@@ -10,6 +10,7 @@
 <br>
 
 + [Homework 2](https://www.youtube.com/watch?v=kbUUSisYV_w)
+<img src="https://github.com/user-attachments/assets/9602e568-cb05-488b-b5a2-9ae31470e765" width="100%" height="100%"/>
 
 <br>
 
