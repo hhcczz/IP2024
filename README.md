@@ -16,3 +16,8 @@
 
 + [Homework 3](https://github.com/hhcczz/IP2024/blob/main/10-07/chap143.ipynb)
 <img src="https://github.com/user-attachments/assets/347cc3dc-dac6-48e5-b33e-57d28bff7e6a" width="100%" height="100%"/>
+
+<br>　
+
++ [Homework 4](https://youtu.be/EUW-vRW_BQw)
+<img src="https://github.com/user-attachments/assets/473fd26b-5b4d-46ef-a1b1-b1bea95c9f88" width="100%" height="100%"/>
