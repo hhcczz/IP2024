@@ -24,5 +24,5 @@
 
 <br>　
 
-+ [Homework 5]
++ Homework 5
 <img src="https://github.com/user-attachments/assets/7d12f7d9-469b-481d-9218-f70ad6284741" width="100%" height="100%"/>
